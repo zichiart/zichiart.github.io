@@ -1,0 +1,321 @@
+:lang(ja) 	{
+    font-family: Hiragino Mincho Pro;
+    font-size: 100%;
+    }
+
+html { 
+  background: url(akashi-bridge-fog-2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+body {
+margin : 0;
+padding : 0;
+text-align : left;
+font : normal normal 82% Hiragino Mincho Pro;
+color : #201e1d;
+background: url(fff.gif) repeat fixed; 
+}
+blockquote {
+margin : 0 0 0 30px;
+padding : 0 0 0 20px;
+font-size : 88%;
+line-height : 1.5em;
+}
+blockquote p {
+margin-top : 0;
+}
+abbr, acronym {
+cursor : help;
+font-style : normal;
+}
+code {
+color : #f63;
+}
+hr {
+display : none;
+}
+img {
+border : none;
+}
+ul {
+list-style : none;
+margin-left : 7px;
+padding : 0;
+}
+li {
+list-style : none;
+padding-left : 8px;
+margin-bottom : 3px;
+}
+a:link {
+color : #2556e6;
+text-decoration : none;
+}
+a:visited {
+color : #ff0000;
+text-decoration : none;
+}
+a:hover {
+color : #324f17;
+text-decoration : none;
+}
+a:active {
+color : #2556e6;
+text-decoration : none;
+}
+#outer-wrapper {
+width : 780px;
+margin : 0 auto;
+text-align : justify;
+border:1px solid #000;
+}
+#content-wrapper {
+margin : 0;
+width : 100%;
+}
+#main {
+float : left;
+width : 520px;
+margin-left : 10px;
+padding-left : 5px;
+padding-right : 5px;
+line-height : 1.2em;
+overflow : hidden;
+border:1px solid #000;
+}
+#sidebar {
+float : right;
+width : 200px;
+margin-right:10px;
+padding-right : 10px;
+padding-left : 10px;
+font : normal normal 91% Hiragino Mincho Pro;
+color : #201e1d;
+line-height : 1.4em;
+overflow : hidden;
+border:1px solid #000;
+}
+#header-wrapper {
+margin : 0;
+padding : 0;
+}
+#header {
+height : 298px;
+overflow : hidden;
+width : 848px;
+color : #201e1d;
+background : url('../images/paint-brush2.png') no-repeat top left;
+}
+#header h1 {
+width : 460px;
+font : normal bold 200% Hiragino Mincho Pro;
+margin : 100px 20px 5px 370px;
+padding : 5px;
+text-align : center;
+}
+#header h1 a {
+text-decoration : none;
+color : #ffffff;
+}
+#header h1 a:hover {
+color : #999999;
+}
+#header .description {
+margin : -10px 20px 5px 385px;
+text-align : center;
+width : 445px;
+font : normal normal 85% Hiragino Mincho Pro;
+color : #999999;
+}
+h2.date-header {
+font-size : 85%;
+color : #999999;
+margin : 0;
+text-align : left;
+}
+.post h3 {
+text-align : left;
+font : normal bold 100% Hiragino Mincho Pro;
+color : #3d5229;
+border-top : 1px solid #369;
+border-bottom : 1px solid #369;
+}
+.post {
+padding : 0;
+}
+.post h3 a {
+color : #7ba5fb;
+text-decoration : none;
+}
+.post h3 a:hover {
+color : #324f17;
+text-decoration : none;
+}
+.post-footer {
+height : 30px;
+margin : 0;
+text-align : right;
+font-size : 88%;
+color : #201e1d;
+}
+
+.sidebar h2 {
+margin : 0 0 0 0;
+padding : 10px 0 0 0;
+font : normal bold 150% Hiragino Mincho Pro;
+color : #201e1d;
+height : 32px;
+height : 32px !important ;
+height : 57px;
+}
+
+.sidebar h4 {
+color:#201e1d;
+}
+
+h4 {
+color:#201e1d;
+}
+
+.sidebar .widget {
+margin : 0;
+padding : 0 0 10px 10px;
+border-bottom:1px solid #ccc;
+}
+.sidebar a {
+color : #2556e6;
+text-decoration : none;
+}
+.sidebar a:hover {
+color : #324f17;
+}
+.profile-textblock {
+margin : 0.5em 0;
+line-height : 1.6em;
+}
+.profile-img {
+float : right;
+margin : 3px;
+border : 1px solid #ddd;
+padding : 3px;
+}
+.clear {
+clear : both;
+}
+#footer {
+margin : 0;
+width : 848px;
+height : 143px;
+text-align : center;
+color : #999;
+}
+#footer-wrapper {
+margin : 0;
+font-size : 75%;
+clear : both;
+}
+#footer-wrapper a {
+color : #999;
+text-decoration : none;
+line-height : 143px;
+}
+#footer-wrapper a:hover {
+color : #324f17;
+text-decoration : none;
+}
+body#layout #outer-wrapper, body#layout #main, body#layout #sidebar {
+padding-top : 0;
+margin-top : 0;
+}
+body#layout #outer-wrapper, body#layout #content-wrapper {
+padding-top : 0;
+}
+body#layout #sidebar {
+margin-right : 0;
+}
+body#layout #header, body#layout #footer, body#layout #main {
+padding : 0;
+}
+body#layout #content-wrapper {
+margin : 0;
+}
+.thumb {
+float:left;
+border:1px solid #ccc;
+font-size:10px;
+width:220px;
+min-height:250px;
+text-align:center;
+vertical-align:top;
+margin:5px;
+padding:5px;
+}
+.bottom {
+border-bottom:1px solid #ccc;
+}
+.image-left {
+text-align:left;
+}
+.center {
+text-align:center;
+}
+.image-right {
+text-align:right;
+}
+.writing{
+        font-family:"Lucida Handwriting", "Apple Chancery", script;
+        color:#7B3F00;
+        }
+.border {
+    border:1px dotted #ddd; 
+    padding:20px; 
+    margin-top:40px;
+    margin-bottom:4px;
+    background-color:#fff8e7;
+    
+}        
+.thumbnail{
+		height: 160px; 
+		width: 128px;
+		text-align: center;
+		padding:8px;
+		background-color: #303030;
+		border: 1px solid #404040;
+		float: left;
+		margin-right: 10px;
+		margin-bottom: 15px;
+		color:#fff;
+		font-size:11px;
+	}
+.thumbnail a:link {
+        color:#fff;
+    }
+.thumbnail a:visited {
+        color:#ff0000;
+    }
+
+.thumbnail_text{
+		height:400px; 
+		width: 180px;
+		text-align: left;
+		padding:8px;
+		background-color: #f5f5dc;
+		border: 1px dotted #404040;
+		float: left;
+		margin-right: 15px;
+		margin-bottom: 15px;
+		overflow: hidden; 
+ 		font-family: "Trebuchet MS", Verdana, Sans-Serif;
+		font-size: 90%;
+		color:#000;
+	}
+
+  .clearer {
+	clear: both;
+}
