@@ -1,5 +1,5 @@
 html {
-background:url(../images/photogray.jpg)fixed;
+background:#fff;
 padding: 0;
 margin: 0;
 }
@@ -39,10 +39,10 @@ border-width:0;
 	width: 897px;
 	margin:  0 auto;
 	padding-bottom:30px;
-	border-left: 1px solid #ff0000;
-	border-right: 1px solid #ff0000;
-	border-top: 1px solid #ff0000;
-	background:#ffffff url(../images/stucco-tile.jpg);
+	border-left: 0px solid #ff0000;
+	border-right: 0px solid #ff0000;
+	border-top: 0px solid #ff0000;
+	background:#ffffff;
 	color:#993300;
 	line-height:1.5em;
 }
@@ -50,7 +50,7 @@ border-width:0;
     width: 850px;
 	margin: 0 auto;
 	padding: 5px;
-	border: 2px solid #ff0000;
+	border: 0px solid #ff0000;
 }
 .container {
 	line-height:1.5em;
@@ -115,12 +115,8 @@ background:#fffffe url(../images/stucco-tile.jpg);
 	font-size: 0.8em;
 	text-align: center;
 	margin:0 auto;
-	border-top: 2px solid #fffffe;
-	border-left: 1px solid #ff0000;
-	border-right: 1px solid #ff0000;
-	border-bottom: 2px solid #ff0000;
 	padding: 15px 4px 10px;
-	background: #fff url(../images/gradient.png) repeat-x;
+	background: #fff;
 }
 
 
