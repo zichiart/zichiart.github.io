@@ -1,0 +1,244 @@
+html {
+background:#fff;
+padding: 0;
+margin: 0;
+}
+body {
+padding: 0px;
+margin: 0px;
+z-index:100;
+}
+a:link {
+color:#0000ff;
+text-decoration:none;
+}
+a:active {
+text-decoration: none;
+color:#0000ff;
+}
+a:visited {
+color:#ff0000;
+text-decoration:none;
+}
+a:hover {
+color:#3fb2e7;
+text-decoration:underline;
+}
+a img {
+margin-top:5px;
+border-width:0;
+}
+#wrapper {
+	width: 900px;
+	text-align: left;
+	margin: 0 auto;
+	padding-bottom:100px;
+	border: 0px solid #ff0000;
+}
+#shadow {
+	width: 897px;
+	margin:  0 auto;
+	padding-bottom:30px;
+	border-left: 0px solid #ff0000;
+	border-right: 0px solid #ff0000;
+	border-top: 0px solid #ff0000;
+	background:#ffffff;
+	color:#993300;
+	line-height:1.5em;
+}
+#container {
+    width: 850px;
+	margin: 0 auto;
+	padding: 5px;
+	border: 0px solid #ff0000;
+}
+.container {
+	line-height:1.5em;
+	border: 1px dotted #ff0000;
+	margin-bottom:50px;
+	font:1em 'GungSeo Regular';
+	padding:20px;
+}
+
+.container blockquote {
+margin: .75em 0;
+padding: 5px 15px;
+color: #663300;
+}
+
+h3.subject {
+font: 100% 'Zapfino';
+letter-spacing:0.09em;
+text-transform:none;
+color:#000;
+background:#fffffe url(../images/stucco-tile.jpg);
+}
+
+#logo {
+	width:100%;
+	background: #000 url(../images/logo.jpg) no-repeat 0px 0px;
+	min-height:175px;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom:20px;
+}
+.title {
+	font: 110% 'Zapfino';
+	color: #fff;
+	background: inherit;
+	text-transform: none;
+	text-align: right;
+	margin-right: 30px;
+	padding:5px;
+}
+.subtitle {
+	margin-right: 1px;
+	margin-top: -50px;
+	margin-bottom:-15px;
+	font: 1.25em 'Zapfino';
+	text-transform: none;
+	text-align:right;
+	color: #fff;
+	background: inherit;
+}
+#description {
+	text-align: justify;
+	margin: 0 auto;
+	padding-left:5px;
+	padding-right:20px;
+	font:0.9em 'GungSeo Regular';
+}
+#footer {
+	width: 889px;
+	display: block;
+	color:#000;
+	font-size: 0.8em;
+	text-align: center;
+	margin:0 auto;
+	padding: 15px 4px 10px;
+	background: #fff;
+}
+
+
+.thumb {
+	float: left;
+	border: 0 double #fedc75;
+	text-align: center;
+	vertical-align: top;
+	color: #606060;
+	margin: 10px;
+	padding: 5px;
+}
+.thumb4 {
+float:left;
+min-width:79px;
+border-right:0px solid #ff0000;
+border-bottom:0px solid #fffffe;
+text-align:center;
+vertical-align:top;
+margin:5px 0px 20px 0px;
+padding:5px;
+font-size:0.9em;
+}
+
+.floatright {
+float:right;
+font:0.85em 'GungSeo Regular';
+width:180px;
+height:110px;
+border:1px dotted #ff0000;
+text-align:center;
+background-color:#feecc2;
+vertical-align:top;
+margin-left:20px;
+padding:5px;
+}
+
+.imageleft {
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	vertical-align: top;
+}
+.imageright {
+	float: right;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	vertical-align: top;
+}
+.c1 {
+	text-align: center;
+}
+.c3 {
+	text-align: left;
+}
+#content_wide {
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.thumbnail {
+	height: 150px;
+	width: 150px;
+	text-align: center;
+	padding: 8px;
+	background: #feecc2;
+	border: 1px solid #ff0000;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 15px;
+	margin-left:30px;
+}
+
+
+#flashbanner {
+text-align:center;
+margin-left:-10px;
+margin-bottom:20px;
+width:800px;
+border:1px dotted #ff0000;
+}
+
+#tw-feed,#tw-feed ul,#tw2-feed,#tw2-feed ul,#tw3-feed,#tw3-feed ul,#tw4-feed,#tw4-feed ul,#tw5-feed,#tw5-feed ul,#tw6-feed,#tw6-feed ul,#tw7-feed,#tw7-feed ul,#tw8-feed,#tw8-feed ul,#tw9-feed,#tw9-feed ul,#tw10-feed,#tw10-feed ul {
+list-style:none;
+margin:0;
+padding:0;
+}
+
+#tw-feed li ul,#tw2-feed li ul,#tw3-feed li ul,#tw4-feed li ul,#tw5-feed li ul,#tw6-feed li ul,#tw7-feed li ul,#tw8-feed li ul,#tw9-feed li ul,#tw10-feed li ul {
+display:none;
+position:absolute;
+background-color:#fffffe;
+color:inherit;
+border:1px solid #ccc;
+padding:3px;
+font-size:14px;
+}
+
+#tw-feed li,#tw2-feed li,#tw3-feed li,#tw4-feed li,#tw5-feed li,#tw6-feed li,#tw7-feed li,#tw8-feed li,#tw9-feed li,#tw10-feed li {
+}
+
+#tw-feed ul li,#tw2-feed ul li,#tw3-feed ul li,#tw4-feed ul li,#tw5-feed ul li,#tw6-feed ul li,#tw7-feed ul li,#tw8-feed ul li,#tw9-feed ul li,#tw10-feed ul li {
+padding-bottom:3px;
+}
+.p {
+display:none;
+}
+.clearit {
+	clear: both;
+	height: 0;
+}
+.ul {
+list-style:none;
+margin-top:5px;
+margin-bottom:5px;
+margin-left:0.1em;
+margin-right:0.8em;
+padding-left:0.5em;
+}
+
+.li {
+list-style-type:none;
+text-align:left;
+}
