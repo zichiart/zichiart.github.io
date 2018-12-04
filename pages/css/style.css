@@ -209,3 +209,4 @@
     and (max-device-width : 480px){ 
       .mobileShow {display: inline;}
   }
+  .horizontal { display: inline; background-color: aqua; }
