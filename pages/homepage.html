@@ -22,7 +22,14 @@
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
 		<style>
 /*<![CDATA[*/
+.mobileShow {display: none;} 
 
+  /* Smartphone Portrait and Landscape */ 
+  @media only screen 
+    and (min-device-width : 320px) 
+    and (max-device-width : 480px){ 
+      .mobileShow {display: inline;}
+  }
 /*]]>*/
 </style>
 
@@ -131,6 +138,15 @@ My painting galleries are divided according to theme, like abstract. flowers, la
 
 <!-- Main Content -->
 <section>
+<div class="mobileShow"> 
+<ul class="link-list">
+					<li><a href="abstract-notes.html">Abstract Painting Notes</a></li>
+					<li><a href="flower-notes.html">Flower Painting Notes</a></li>
+					<li><a href="landscape-notes.html">Landscape Painting Notes</a></li>
+					<li><a href="seascape-notes.html">Seascape Painting Notes</a></li>
+					<li><a href="plein-aire-notes.html">Plein Aire Notes</a></li>
+				</ul>
+</div>
 <header>
 	<h2>zichi Lorentz Artist &amp; Painter</h2>
 	<h3>Some thoughts on that</h3>
