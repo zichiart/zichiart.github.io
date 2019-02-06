@@ -84,17 +84,17 @@ input, select, textarea {
 	body {
 		background: #D4D9DD url("images/bg03.jpg");
 		color: #474f51;
-		font-size: 11pt;
+		font-size: 10pt;
 		font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
-		line-height: 1.85em;
+		line-height: 1.5em;
 		font-weight: 300;
 	}
 
 	input, textarea, select {
 		color: #474f51;
-		font-size: 11pt;
+		font-size: 10pt;
 		font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
-		line-height: 1.85em;
+		line-height: 1.5em;
 		font-weight: 300;
 	}
 
