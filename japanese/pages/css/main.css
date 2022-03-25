@@ -2050,11 +2050,11 @@ input, select, textarea {
   background-color: #4CAF50;
   color: white;
 }
-.mobileShow {display: none;} 
+.mobileShow {display: none;}
 
-  /* Smartphone Portrait and Landscape */ 
-  @media only screen 
-    and (min-device-width : 320px) 
-    and (max-device-width : 480px){ 
+  /* Smartphone Portrait and Landscape */
+  @media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 480px){
       .mobileShow {display: inline;}
   }
