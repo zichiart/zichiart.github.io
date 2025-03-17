@@ -38,7 +38,7 @@
 
 	.subpage #header-wrapper
 	{
-		height: 155px;
+		height: 175px;
 	}
 
 	#features-wrapper
@@ -66,7 +66,7 @@
 
 	#header
 	{
-		min-height: 155px;
+		min-height: 175px;
 		position: relative;
     padding-top: 25px;
 	}
@@ -99,7 +99,7 @@
 				color: #fff;
 				text-decoration: none;
 				font-size: 1.4em;
-				margin-left: 30px;
+				margin-left: 20px;
 				outline: 0;
 			}
 
