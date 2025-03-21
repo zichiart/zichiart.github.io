@@ -1,8 +1,6 @@
 html {
 background:url(akashi-bridge-fog-2.jpg) no-repeat center center fixed;
--webkit-background-size:cover;
--moz-background-size:cover;
--o-background-size:cover;
+
 background-size:cover;
 }
 
@@ -383,5 +381,4 @@ float:right;
 position:relative;
 right:30px;
 padding-top:20px;
-}
 }
