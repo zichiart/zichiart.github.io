@@ -216,11 +216,11 @@
 
 		#footer a
 		{
-			color: #546b76;
+			color: #000000;
 		}
     #footer a:hover
     {
-      color: #fff;
+      color: #ffffff;
     }
     #footer a:visited
     {
