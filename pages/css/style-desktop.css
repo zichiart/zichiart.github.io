@@ -103,9 +103,15 @@
 				outline: 0;
 			}
 
-			#header nav a:hover
+
+      #header nav a:visited
 			{
-				color: #f6f8f8;
+				color: #00ff00;
+			}
+
+      #header nav a:hover
+			{
+				color: #ffffff;
 			}
 
 /* Banner */
