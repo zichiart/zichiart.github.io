@@ -191,8 +191,16 @@
 
 		#content a
 		{
-			color: #ED391B;
+			color: #2986cc;
 		}
+    #content a:hover
+    {
+      color: #000;
+    }
+    #content a:visited
+    {
+      color: #ED391B;
+    }
 
 		#content header
 		{
