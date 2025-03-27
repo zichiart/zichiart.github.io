@@ -233,7 +233,7 @@
 }
 .topnav {
   overflow: hidden;
-  background-color: #bcaaa4;
+  background-color: #9c9998;
 }
 
 .topnav a {
@@ -247,9 +247,9 @@
 
 .topnav a:hover {
   background-color: #fff;
-  color: #3d5afe;
+  color: #000;
 }
 
 .topnav a.visited {
-  color: green;
+  color: #1ee33b;
 }
