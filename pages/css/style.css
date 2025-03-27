@@ -228,17 +228,17 @@
 
 /* Add a color to the active/current link */
 .horizontal a.active {
-    background-color: #4CAF50;
+    background-color: #D3D3D3;
     color: white;
 }
 .topnav {
   overflow: hidden;
-  background-color: #9c9998;
+  background-color: #A9A9A9;
 }
 
 .topnav a {
   float: left;
-  color: #fff;
+  color: #0000ff;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -246,9 +246,9 @@
 }
 
 .topnav a:hover {
-  color: #000;
+  color: #fff;
 }
 
 .topnav a.visited {
-  color: #1ee33b;
+  color: #008000;
 }
