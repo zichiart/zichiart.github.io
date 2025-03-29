@@ -75,7 +75,7 @@
 		{
 			position: absolute;
 			left: 0;
-			bottom: 170px;
+			bottom: 180px;
 			font-family: 'Lobster', sans-serif;
 			font-size: 2.55em;
 		}
@@ -96,9 +96,9 @@
 
 			#header nav a
 			{
-				color: #000;
+				color: #ddd;
 				text-decoration: none;
-				font-size: 1.4em;
+				font-size: 1.0em;
 				margin-left: 20px;
 				outline: 0;
 			}
@@ -111,7 +111,7 @@
 
       #header nav a:hover
 			{
-				color: #ffffff;
+				color: #FFFF00;
 			}
 
 /* Banner */
