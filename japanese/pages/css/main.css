@@ -1512,14 +1512,13 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background: #ac986c url('images/top_bg.jpg') no-repeat 50% 0;
+		background: #fff  ;
 		border-bottom: solid 1px #272d30;
-		box-shadow: inset 0px -1px 0px 0px #51575a;
-		text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
+
 	}
 
 		#header > .container {
-		background: #ac986c url('images/top_bg.jpg') no-repeat 50% 0;
+		background: #fff;
 			position: relative;
 			min-height: 155px;
 		}
@@ -2029,7 +2028,7 @@ input, select, textarea {
 	}
 	.topnav {
   overflow: hidden;
-  background-color: #333;
+
 }
 
 .topnav a {
@@ -2042,13 +2041,13 @@ input, select, textarea {
 }
 
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+
+  color: #00ff00;
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
-  color: white;
+
+  color: #add8e6;
 }
 .mobileShow {display: none;}
 

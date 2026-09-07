@@ -44,7 +44,7 @@
 		background: #353D40 url('images/bg02.jpg');
 		border-bottom: solid 1px #272e31;
 		padding: 45px 0 45px 0;
-		text-shadow: -1px -1px 1px rgba(0,0,0,0.75);
+
 	}
 
 	#content-wrapper
@@ -74,7 +74,7 @@
 			left: 0;
 			bottom: 35px;
 			font-family: 'Lobster', sans-serif;
-			font-size: 2.75em;
+			font-size: 2em;
 		}
 
 			#header h1 a
@@ -219,7 +219,7 @@
 		text-align: center;
 		padding: 45px 0 80px 0;
 		color: #8d9ca3;
-		
+
 	}
 
 		#copyright a

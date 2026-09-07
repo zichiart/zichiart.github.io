@@ -228,23 +228,23 @@
 
 /* Change the color of links on hover */
 .horizontal a:hover {
-    background-color: #ddd;
-    color: black;
+
+    color: #00ff00;
 }
 
 /* Add a color to the active/current link */
 .horizontal a.active {
-    background-color: #4CAF50;
-    color: white;
+
+    color: #000;
 }
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #fff;
 }
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -252,11 +252,11 @@
 
 }
 .topnav a.hover {
-  background-color: #ddd;
-  color: black;
+
+  color: #00ff00;
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
-  color: white;
+
+  color: #000;
 }
