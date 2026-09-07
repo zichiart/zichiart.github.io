@@ -234,8 +234,7 @@
 	}
 	.topnav {
 	  overflow: hidden;
-	  background-color: #333;
-		background: url('images/bg04.png');
+	  background: #fff url('images/bg04.png');
 	}
 
 	.topnav a {
