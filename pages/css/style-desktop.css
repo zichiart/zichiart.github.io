@@ -11,7 +11,7 @@
 /* Basic */
     html
 {
-	background:url(images/html_bg.jpg) repeat;
+	
 	margin:0;
 	padding:0;
 }
@@ -32,8 +32,8 @@
 	{
 
 		border-bottom: solid 2px #ff0000;
-		box-shadow: inset 0px -1px 0px 0px #51575a;
-		text-shadow: -1px -1px 1px rgba(0,0,0,0.75);
+		box-shadow: inset 0px 0px 0px 0px #51575a;
+
 	}
 
 	.subpage #header-wrapper
@@ -46,7 +46,7 @@
 		background: #353D40 url('images/bg02.jpg');
 		border-bottom: solid 1px #272e31;
 		padding: 45px 0 45px 0;
-		text-shadow: -1px -1px 1px rgba(0,0,0,0.75);
+
 	}
 
 	#content-wrapper
@@ -83,7 +83,7 @@
 
 			#header h1 a
 			{
-				color: #d3d3d3;
+				color: #000;
 				text-decoration: none;
 			}
 
@@ -96,7 +96,7 @@
       background-color:white;
       padding-left:25px;
       padding-right:25px;
-      padding-top:20px;
+      padding-top:10px;
       margin-top:25px;
       border: solid 2px #ff0000;
 
@@ -108,7 +108,7 @@
 				color: #000000;
 
 				text-decoration: none;
-				font-size: 1.5em;
+				font-size: 1em;
 				margin-left: 20px;
 				outline: 0;
 			}
