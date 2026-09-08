@@ -15,15 +15,15 @@
 
 	body
 	{
-		background: #D4D9DD url('images/bg03.jpg');
+		background:#ebeef0 url('images/bg03.jpg');
 	}
 
 	body, input, textarea, select
 	{
-		color: #474f51;
+		color: #000;
 		font-size: 13.5pt;
 		font-family: 'Yanone Kaffeesatz';
-		line-height: 1.85em;
+		line-height: 1.5em;
 		font-weight: 300;
 	}
 
