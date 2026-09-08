@@ -214,7 +214,7 @@
 	/* Style the links inside the navigation bar */
 	.horizontal a {
 	    float: left;
-	    color: #f2f2f2;
+	    color: #0000EE;
 	    text-align: center;
 	    padding: 14px 16px;
 	    text-decoration: none;
@@ -224,13 +224,13 @@
 	/* Change the color of links on hover */
 	.horizontal a:hover {
 	    background-color: #white;
-	    color: #da0ced;
+	    color: #FF0000;
 	}
 
 	/* Add a color to the active/current link */
 	.horizontal a.active {
 	    background-color: #4CAF50;
-	    color: white;
+	    color: #0000EE;
 	}
 	.topnav {
 	  overflow: hidden;
@@ -253,7 +253,7 @@
 
 	.topnav a.active {
 	  background-color: #0c80ed;
-	  color: white;
+	  color: #000;
 	}
 
 .topnav a.visited {

@@ -116,12 +116,12 @@
 
       #header nav a:visited
 			{
-				color: #ff0000;
+				color: #800080;
 			}
 
       #header nav a:hover
 			{
-				color: #00ff00;
+				color: #FF0000;
 			}
 
 /* Banner */
@@ -201,15 +201,15 @@
 
 		#content a
 		{
-			color: #0c80ed;
+			color: #0000EE;
 		}
     #content a:hover
     {
-      color: #da0ced;
+      color: #FF0000;
     }
     #content a:visited
     {
-      color: #ed1f0c;
+      color: #800080;
     }
 
 		#content header
@@ -238,11 +238,11 @@
 		}
     #footer a:hover
     {
-      color: #00ff00;
+      color: #FF0000;
     }
     #footer a:visited
     {
-      color: #ff0000;
+      color: #800080;
     }
 /* Copyright */
 
