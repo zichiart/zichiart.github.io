@@ -224,7 +224,7 @@
 	/* Change the color of links on hover */
 	.horizontal a:hover {
 	    background-color: #white;
-	    color: #FF0000;
+	    color: #800080;
 	}
 
 	/* Add a color to the active/current link */
@@ -248,7 +248,7 @@
 	}
 	.topnav a.hover {
 	  background-color: #fff;
-	  color: #da0ced;
+	  color: #800080;
 	}
 
 	.topnav a.active {
@@ -257,5 +257,5 @@
 	}
 
 .topnav a.visited {
-  color: #ed1f0c;
+  color: #FF0000;
 }
